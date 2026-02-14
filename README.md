@@ -19,7 +19,7 @@ By combining my technical proficiency in data processing with proven experience 
 
 **Data & Machine Learning:** `Pandas` | `NumPy` | `Scikit-Learn` | `XGBoost` | `TensorFlow` 
 
-**Tools & Platforms:** `Git` | `GitHub` | `Jupyter Notebook` | `VS Code` | `Google Sheets / Advanced Excel
-
+**Tools & Platforms:** `Git` | `GitHub` | `Jupyter Notebook` | `VS Code` | `Google Sheets` / `Advanced Excel`
+`
 ---
 *"Capable of executing complex tasks with high accuracy, eager to leverage mathematical logic to deliver actionable data insights."*
