@@ -1,6 +1,6 @@
 # Hi there, I'm Fatwa Nurhidayat! 👋📊
 
-### Mathematics Graduate | Data Enthusiast | Machine Learning Engineer
+### Data Analyst | Machine Learning Engineer
 
 I am a Mathematics graduate from Brawijaya University with a strong statistical foundation. I love integrating analytical precision with operational efficiency to solve real-world problems. 
 
