@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Fatwa Nurhidayat! 👋📊
 
-<!--
-**fatwanurhdyt/fatwanurhdyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mathematics Graduate | Data Enthusiast | Machine Learning Engineer
 
-Here are some ideas to get you started:
+I am a Mathematics graduate from Brawijaya University with a strong statistical foundation. I love integrating analytical precision with operational efficiency to solve real-world problems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+By combining my technical proficiency in data processing with proven experience in financial documentation and data management, I aim to transform raw, complex datasets into actionable business insights.
+
+### 🚀 About Me
+- 🎓 **Education:** B.S. in Mathematics, Brawijaya University.
+- 💡 **Focus:** Data Analytics, Machine Learning, and Data Engineering.
+- 🔍 **What I do:** I build predictive models, design ETL pipelines, and conduct exploratory data analysis (EDA) to drive business performance.
+- 🌱 **Currently learning:** Advanced forecasting techniques and automated reporting solutions.
+- 🤝 **Looking to collaborate on:** Open-source data projects, machine learning models, and business analytics dashboards.
+- 📫 **How to reach me:** [fatwa.nrhdyt@gmail.com](mailto:fatwa.nrhdyt@gmail.com)
+
+### 🛠️ Tech Stack & Tools
+**Languages:** `Python` | `SQL` | `LaTeX`
+
+**Data & Machine Learning:** `Pandas` | `NumPy` | `Scikit-Learn` | `XGBoost` | `TensorFlow` 
+
+**Tools & Platforms:** `Git` | `GitHub` | `Jupyter Notebook` | `VS Code` | `Google Sheets / Advanced Excel`
+
+### 📈 GitHub Stats
+![Fatwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
+
+---
+*"Capable of executing complex tasks with high accuracy, eager to leverage mathematical logic to deliver actionable data insights."*
