@@ -22,7 +22,7 @@ By combining my technical proficiency in data processing with proven experience 
 **Tools & Platforms:** `Git` | `GitHub` | `Jupyter Notebook` | `VS Code` | `Google Sheets / Advanced Excel`
 
 ### 📈 GitHub Stats
-![Fatwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
+![Fatwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatwanurhdyt&show_icons=true&theme=radium)
 
 ---
 *"Capable of executing complex tasks with high accuracy, eager to leverage mathematical logic to deliver actionable data insights."*
