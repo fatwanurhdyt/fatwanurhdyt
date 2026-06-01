@@ -8,7 +8,7 @@ By combining my technical proficiency in data processing with proven experience 
 
 ### 🚀 About Me
 - 🎓 **Education:** B.S. in Mathematics, Brawijaya University.
-- 💡 **Focus:** Data Analytics, Machine Learning, and Data Engineering.
+- 💡 **Focus:** Data Analytics, and Machine Learning.
 - 🔍 **What I do:** I build predictive models, design ETL pipelines, and conduct exploratory data analysis (EDA) to drive business performance.
 - 🌱 **Currently learning:** Advanced forecasting techniques and automated reporting solutions.
 - 🤝 **Looking to collaborate on:** Open-source data projects, machine learning models, and business analytics dashboards.
