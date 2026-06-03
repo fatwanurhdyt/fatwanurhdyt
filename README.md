@@ -1,6 +1,6 @@
 # Fatwa Nurhidayat
 
-### Data Analyst | Machine Learning Enthusiast
+### Data Analyst | Machine Learning Engineer
 
 I am a Mathematics graduate from Brawijaya University with a strong foundation in statistics, data analysis, and mathematical modeling. I focus on transforming raw and complex datasets into clear, actionable insights that support business decision-making.
 
