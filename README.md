@@ -58,7 +58,7 @@ My work combines data processing, exploratory analysis, dashboard development, a
 ## Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/fatwanurhdyt](https://linkedin.com/in/fatwanurhdyt)
-- **GitHub:** [github.com/fatwanurhdyt](https://github.com/fatwanurhdyt)
+- **Tableau:** [public.tableau.com/app/profile/fatwa.nurhidayat](https://public.tableau.com/app/profile/fatwa.nurhidayat/vizzes)
 - **Email:** [fatwa.nrhdyt@gmail.com](mailto:fatwa.nrhdyt@gmail.com)
 
 ---
