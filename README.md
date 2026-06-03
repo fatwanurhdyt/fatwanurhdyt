@@ -1,25 +1,66 @@
-# Hi there, I'm Fatwa Nurhidayat! 👋📊
+# Fatwa Nurhidayat
 
-### Data Analyst | Machine Learning Engineer
+### Data Analyst | Machine Learning Enthusiast
 
-I am a Mathematics graduate from Brawijaya University with a strong statistical foundation. I love integrating analytical precision with operational efficiency to solve real-world problems. 
+I am a Mathematics graduate from Brawijaya University with a strong foundation in statistics, data analysis, and mathematical modeling. I focus on transforming raw and complex datasets into clear, actionable insights that support business decision-making.
 
-By combining my technical proficiency in data processing with proven experience in financial documentation and data management, I aim to transform raw, complex datasets into actionable business insights.
-
-### 🚀 About Me
-- 🎓 **Education:** B.S. in Mathematics, Brawijaya University.
-- 💡 **Focus:** Data Analytics, and Machine Learning.
-- 🔍 **What I do:** I build predictive models, design ETL pipelines, and conduct exploratory data analysis (EDA) to drive business performance.
-- 🌱 **Currently learning:** Advanced forecasting techniques and automated reporting solutions.
-- 🤝 **Looking to collaborate on:** Open-source data projects, machine learning models, and business analytics dashboards.
-- 📫 **How to reach me:** [fatwa.nrhdyt@gmail.com](mailto:fatwa.nrhdyt@gmail.com)
-
-### 🛠️ Tech Stack & Tools
-**Languages:** `Python` | `SQL` | `LaTeX`
-
-**Data & Machine Learning:** `Pandas` | `NumPy` | `Scikit-Learn` | `XGBoost` | `TensorFlow` 
-
-**Tools & Platforms:** `Git` | `GitHub` | `Jupyter Notebook` | `VS Code` | `Google Sheets` / `Advanced Excel`
+My work combines data processing, exploratory analysis, dashboard development, and machine learning to solve real-world problems across business, finance, and operational domains.
 
 ---
-*"Capable of executing complex tasks with high accuracy, eager to leverage mathematical logic to deliver actionable data insights."*
+
+## About Me
+
+- **Education:** B.S. in Mathematics, Brawijaya University
+- **Focus Areas:** Data Analytics, Business Intelligence, Machine Learning
+- **What I Do:** Data cleaning, exploratory data analysis, dashboard development, predictive modeling, and ETL pipeline development
+- **Currently Learning:** Advanced forecasting, automated reporting, and model deployment
+- **Open To:** Data analytics projects, machine learning collaboration, and business dashboard development
+- **Contact:** [fatwa.nrhdyt@gmail.com](mailto:fatwa.nrhdyt@gmail.com)
+
+---
+
+## Tech Stack & Tools
+
+**Programming & Query Language**  
+`Python` `SQL` `LaTeX`
+
+**Data Analysis & Machine Learning**  
+`Pandas` `NumPy` `Scikit-learn` `XGBoost` `TensorFlow`
+
+**Visualization & Business Intelligence**  
+`Tableau` `Matplotlib` `Seaborn` `Google Sheets` `Advanced Excel`
+
+**Tools & Platforms**  
+`Git` `GitHub` `Jupyter Notebook` `VS Code`
+
+---
+
+## Featured Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| **HR Attrition Analysis** | Analyzed employee attrition patterns and built a Tableau dashboard to identify high-risk employee segments. | Python, Tableau |
+| **E-Commerce Performance Analysis** | Analyzed Brazilian e-commerce transactions to evaluate revenue, product performance, customer satisfaction, and delivery efficiency. | Python, Tableau |
+| **LQ45 Portfolio Optimization** | Performed risk-return analysis and portfolio optimization using Modern Portfolio Theory and Monte Carlo simulation. | Python, Tableau |
+
+---
+
+## Current Interests
+
+- Business intelligence dashboards
+- HR analytics and customer analytics
+- Financial data analysis
+- Forecasting and predictive modeling
+- End-to-end data portfolio projects
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/fatwanurhdyt](https://linkedin.com/in/fatwanurhdyt)
+- **GitHub:** [github.com/fatwanurhdyt](https://github.com/fatwanurhdyt)
+- **Email:** [fatwa.nrhdyt@gmail.com](mailto:fatwa.nrhdyt@gmail.com)
+
+---
+
+> Turning data into structured insights for better business decisions.
